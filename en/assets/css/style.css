@@ -1,0 +1,49 @@
+/*.fondo{
+    background: url(../img/FondoJumbotron.png) no-repeat !important;
+    height: 37rem !important;
+}*/
+.container{
+    background-color: #aafada !important;
+    font-family: 'Inclusive Sans', sans-serif;
+    border-radius: 10px;
+    padding: 5px;
+}
+.navbar{
+    background-color: #51d2e6 !important;
+    font-family: 'Martian Mono', monospace;
+    
+}
+.footer{
+    background-color: #49d8c7 !important;
+    font-family: 'Martian Mono', monospace;
+}
+.pagina {
+    display: none;
+}
+.vehiculos-section img{
+    width: 286px;
+}
+
+#index {
+    display: block; /* Muestra la página de inicio */
+}
+.tran{
+  transition: font-size 0.5s;
+}
+.tran:hover{
+  font-size: 17px;
+  font-weight: bold;
+}
+.imgs {
+    height: 20px;
+    width: 20px;
+}
+.list-group-item {
+    background-color: #3498db; /* Cambia esto al color que desees */
+    color: #ffffff; /* Cambia esto al color que desees para el texto */
+}
+
+.list-group-item.active {
+    background-color: #2c3e50; /* Cambia esto al color que desees para la pestaña activa */
+    color: #ffffff; /* Cambia esto al color que desees para el texto de la pestaña activa */
+}
