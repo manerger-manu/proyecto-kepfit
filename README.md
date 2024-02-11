@@ -16,6 +16,7 @@ Este proyecto trata sobre nuestra aplicación de tipo red social con la que podr
 **Jon Caballero**
 
 URL:
+https://manerger-manu.github.io/proyecto-kepfit/
 
 ## Aspectos de nuestra página
 * Paleta de colores
